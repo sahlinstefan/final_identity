@@ -1,0 +1,16 @@
+namespace final_identity.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class ContryRegisterFieldAdded : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
